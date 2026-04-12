@@ -25937,6 +25937,13 @@
 	},
 	{
 		"Brand": "Jam Pedals",
+		"Name": "Chill (Legacy)",
+		"Width": 2.79,
+		"Height": 4.39,
+		"Image": "jam-chill-legacy.png"
+	},
+	{
+		"Brand": "Jam Pedals",
 		"Name": "CTRL BOX",
 		"Width": 3.03,
 		"Height": 5.01,
@@ -26011,6 +26018,13 @@
 		"Width": 2.77,
 		"Height": 4.5,
 		"Image": "jam-eureka.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "Eureka (Legacy)",
+		"Width": 2.79,
+		"Height": 4.39,
+		"Image": "jam-eureka-legacy.png"
 	},
 	{
 		"Brand": "Jam Pedals",
@@ -26109,6 +26123,13 @@
 		"Width": 2.96,
 		"Height": 4.87,
 		"Image": "jam-rattler-mk4.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "Rattler (Legacy)",
+		"Width": 2.79,
+		"Height": 4.39,
+		"Image": "jam-rattler-legacy.png"
 	},
 	{
 		"Brand": "Jam Pedals",
