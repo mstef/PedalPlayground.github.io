@@ -54113,6 +54113,13 @@
 	},
 	{
 		"Brand": "Vox",
+		"Name": "VFS-5 Footswitch",
+		"Width": 14.92,
+		"Height": 3.95,
+		"Image": "vox-vfs5.png"
+	},
+	{
+		"Brand": "Vox",
 		"Name": "VTB-1 Treble Booster",
 		"Width": 2.91,
 		"Height": 4.82,
