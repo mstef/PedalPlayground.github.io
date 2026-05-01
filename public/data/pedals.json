@@ -46518,8 +46518,8 @@
 	{
 		"Brand": "Snouse Electronics",
 		"Name": "Black Box Overdrive 2",
-		"Width": 2.71,
-		"Height": 4.38,
+		"Width": 2.75,
+		"Height": 4.52,
 		"Image": "snouse-blackbox2.png"
 	},
 	{
@@ -50314,14 +50314,14 @@
 		"Brand": "TC Electronic",
 		"Name": "Polytune 3 Mini",
 		"Width": 2,
-		"Height": 3.75,
+		"Height": 3.65,
 		"Image": "tc-poly3mini.png"
 	},
 	{
 		"Brand": "TC Electronic",
 		"Name": "Polytune 3 Mini Noir",
 		"Width": 2,
-		"Height": 3.75,
+		"Height": 3.65,
 		"Image": "tc-poly3noir.png"
 	},
 	{
