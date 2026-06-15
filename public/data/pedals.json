@@ -10825,8 +10825,8 @@
 	{
 		"Brand": "Cornerstone",
 		"Name": "Antique V3",
-		"Width": 2.76,
-		"Height": 5.14,
+		"Width": 2.71,
+		"Height": 5.11,
 		"Image": "cornerstone-antique-v3.png"
 	},
 	{
@@ -10835,6 +10835,13 @@
 		"Width": 4.7,
 		"Height": 3.82,
 		"Image": "cornerstone-aquarium.png"
+	},
+	{
+		"Brand": "Cornerstone",
+		"Name": "Centurio",
+		"Width": 2.71,
+		"Height": 5.11,
+		"Image": "cornerstone-centurio.png"
 	},
 	{
 		"Brand": "Cornerstone",
@@ -10874,8 +10881,8 @@
 	{
 		"Brand": "Cornerstone",
 		"Name": "Nero",
-		"Width": 2.76,
-		"Height": 5.14,
+		"Width": 2.71,
+		"Height": 5.11,
 		"Image": "cornerstone-nero.png"
 	},
 	{
@@ -43990,10 +43997,24 @@
 	},
 	{
 		"Brand": "Pete Cornish",
+		"Name": "CC-1 (Deluxe)",
+		"Width": 4.96,
+		"Height": 6.79,
+		"Image": "pete-cornish-cc1-deluxe.png"
+	},
+	{
+		"Brand": "Pete Cornish",
 		"Name": "G-2",
 		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-g-2.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "G-2 (Deluxe)",
+		"Width": 4.96,
+		"Height": 6.79,
+		"Image": "pete-cornish-g2-deluxe.png"
 	},
 	{
 		"Brand": "Pete Cornish",
@@ -44018,10 +44039,24 @@
 	},
 	{
 		"Brand": "Pete Cornish",
+		"Name": "NG-3 (Deluxe)",
+		"Width": 4.96,
+		"Height": 6.79,
+		"Image": "pete-cornish-ng3-deluxe.png"
+	},
+	{
+		"Brand": "Pete Cornish",
 		"Name": "P-1",
 		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-p-1.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "P-1 (Deluxe)",
+		"Width": 4.96,
+		"Height": 6.79,
+		"Image": "pete-cornish-p1-deluxe.png"
 	},
 	{
 		"Brand": "Pete Cornish",
@@ -44043,6 +44078,13 @@
 		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-ss-3.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "SS-3 (Deluxe)",
+		"Width": 4.96,
+		"Height": 6.79,
+		"Image": "pete-cornish-ss-3-deluxe.png"
 	},
 	{
 		"Brand": "Pete Cornish",
@@ -59528,6 +59570,13 @@
 		"Width": 1.82,
 		"Height": 3.7,
 		"Image": "zvex-channel2.png"
+	},
+	{
+		"Brand": "Zvex",
+		"Name": "DB-1",
+		"Width": 2.69,
+		"Height": 4.5,
+		"Image": "zvex-db1.png"
 	},
 	{
 		"Brand": "Zvex",
