@@ -16081,6 +16081,13 @@
 	},
 	{
 		"Brand": "EarthQuaker",
+		"Name": "Sunn O))) Halflife",
+		"Width": 2.7,
+		"Height": 4.94,
+		"Image": "earthquaker-sun-o-halflife.png"
+	},
+	{
+		"Brand": "EarthQuaker",
 		"Name": "Swiss Things",
 		"Width": 5.88,
 		"Height": 4.83,
@@ -17023,6 +17030,13 @@
 		"Width": 4.5,
 		"Height": 5.49,
 		"Image": "ehx-effects-interface.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
+		"Name": "EHX Percolator",
+		"Width": 2.82,
+		"Height": 4.5,
+		"Image": "ehx-ehx-percolator.png"
 	},
 	{
 		"Brand": "Electro-Harmonix",
@@ -30501,7 +30515,7 @@
 	},
 	{
 		"Brand": "KGR Harmony USA",
-		"Name": "HalfLife Fer",
+		"Name": "HalfLife Fer MMXXV",
 		"Width": 2.7,
 		"Height": 4.93,
 		"Image": "kgr-halflife-fer.png"
@@ -38954,6 +38968,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "mxr-wa90.png"
+	},
+	{
+		"Brand": "MXR",
+		"Name": "Wylde Audio Zakk Sabbath Overdrive",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "mxr-wa44zs.png"
 	},
 	{
 		"Brand": "MXR",
@@ -51729,6 +51750,13 @@
 		"Width": 4.7,
 		"Height": 3.82,
 		"Image": "tapeaudioco-two-white.png"
+	},
+	{
+		"Brand": "Tark Audio",
+		"Name": "Morty's Fuzz Drive",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "tarkaudio-mortys-fuzz-drive.png"
 	},
 	{
 		"Brand": "Tark Audio",
