@@ -46992,6 +46992,20 @@
 		"Image": "sabbadius-mr-white-special.png"
 	},
 	{
+		"Brand": "Sabbadius",
+		"Name": "Rainbow Fuzz",
+		"Width": 3.15,
+		"Height": 5.05,
+		"Image": "sabbadius-rainbow-fuzz.png"
+	},
+	{
+		"Brand": "Sabbadius",
+		"Name": "Tiny-Vibe",
+		"Width": 5.67,
+		"Height": 4.32,
+		"Image": "sabbadius-tiny-vibe.png"
+	},
+	{
 		"Brand": "Santono",
 		"Name": "Etched Pick Tin (Pink)",
 		"Width": 2,
