@@ -455,6 +455,132 @@
 		"Image": "gator-gtour-small.png"
 	},
 	{
+		"Brand": "GigRig",
+		"Name": "Large Double Tier Pedalboard",
+		"Width": 23.34,
+		"Height": 19.1,
+		"Image": "gigrig-large-double-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Double Tier Pedalboard (Wah L)",
+		"Width": 23.34,
+		"Height": 19.1,
+		"Image": "gigrig-large-double-tier-wl.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Double Tier Pedalboard (Wah R)",
+		"Width": 23.34,
+		"Height": 19.1,
+		"Image": "gigrig-large-double-tier-wr.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Single Tier Pedalboard",
+		"Width": 23.34,
+		"Height": 13.18,
+		"Image": "gigrig-large-single-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Single Tier Pedalboard (Wah L)",
+		"Width": 23.34,
+		"Height": 13.18,
+		"Image": "gigrig-large-single-tier-wl.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Single Tier Pedalboard (Wah R)",
+		"Width": 23.34,
+		"Height": 13.18,
+		"Image": "gigrig-large-single-tier-wr.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Wide Tier",
+		"Width": 21.6,
+		"Height": 6.2,
+		"Image": "gigrig-large-wide-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Large Narrow Tier",
+		"Width": 21.6,
+		"Height": 4.7,
+		"Image": "gigrig-large-narrow-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Double Tier Pedalboard",
+		"Width": 18.11,
+		"Height": 19.1,
+		"Image": "gigrig-medium-double-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Double Tier Pedalboard (Wah L)",
+		"Width": 18.11,
+		"Height": 19.1,
+		"Image": "gigrig-medium-double-tier-wl.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Double Tier Pedalboard (Wah R)",
+		"Width": 18.11,
+		"Height": 19.1,
+		"Image": "gigrig-medium-double-tier-wr.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Narrow Tier",
+		"Width": 16.5,
+		"Height": 4.7,
+		"Image": "gigrig-medium-narrow-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Single Tier Pedalboard",
+		"Width": 18.11,
+		"Height": 13.18,
+		"Image": "gigrig-medium-single-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Single Tier Pedalboard (Wah L)",
+		"Width": 18.11,
+		"Height": 13.18,
+		"Image": "gigrig-medium-single-tier-wl.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Single Tier Pedalboard (Wah R)",
+		"Width": 18.11,
+		"Height": 13.18,
+		"Image": "gigrig-medium-single-tier-wr.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Medium Wide Tier",
+		"Width": 16.5,
+		"Height": 6.2,
+		"Image": "gigrig-medium-wide-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Small Narrow Tier",
+		"Width": 11.4,
+		"Height": 4.7,
+		"Image": "gigrig-small-narrow-tier.png"
+	},
+	{
+		"Brand": "GigRig",
+		"Name": "Small Wide Tier",
+		"Width": 11.4,
+		"Height": 6.2,
+		"Image": "gigrig-small-wide-tier.png"
+	},
+	{
 		"Brand": "Gokko",
 		"Name": "Medium Pedalboard",
 		"Width": 13.8,
@@ -990,7 +1116,7 @@
 		"Brand": "Pedaltrain",
 		"Name": "Nano+",
 		"Width": 18,
-		"Height": 5,
+		"Height": 5.5,
 		"Image": "pedaltrain-nanoplus.png"
 	},
 	{
